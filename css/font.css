@@ -2,8 +2,8 @@
 
 @font-face{
     font-family:'icons';
-    src:url('/static/css/font/icons.eot');
-    src:local(※), url('/static/css/font/icons.woff') format('woff')
+    src:url('/css/font/icons.eot');
+    src:local(※), url('/css/font/icons.woff') format('woff')
 }
 /* transition:0.3s all linear; */
 

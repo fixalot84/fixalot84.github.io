@@ -19,7 +19,7 @@ body {background:#fbfbfb;}
 #main h2 span {color:#999; font-weight:normal; font-size:11px;}
 #main p {font-size:11px; color:#999;}
 
-#visual {width:100%; clear:both; overflow:hidden; height:300px; margin:0 auto; background:url(/static/img/main/visual.png) no-repeat; background-position:center center; background-size:cover;}
+#visual {width:100%; clear:both; overflow:hidden; height:300px; margin:0 auto; background:url(/img/main/visual.png) no-repeat; background-position:center center; background-size:cover;}
 
 .visual_main {padding:10px 0; width:100%; overflow:hidden;}
 .visual_main ul {width:100%;}
